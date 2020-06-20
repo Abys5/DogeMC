@@ -1,0 +1,3 @@
+C:/Users/tombu/CLionProjects/Move it/cmake-build-debug/CMakeFiles/Move_it.dir
+C:/Users/tombu/CLionProjects/Move it/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tombu/CLionProjects/Move it/cmake-build-debug/CMakeFiles/rebuild_cache.dir
